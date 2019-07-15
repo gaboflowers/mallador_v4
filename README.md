@@ -1,6 +1,6 @@
 # Mallador Web
 
-Backend usado en la aplicación del [Mallador](https://dcc.uchile.cl/~gaflores/mallador).
+Backend usado en la aplicación del [Mallador](https://users.dcc.uchile.cl/~gaflores/mallador).
 
 Para usar directamente el `UcampusEngine`, se puede hacer con el siguiente código:
 ```
